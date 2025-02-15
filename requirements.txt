@@ -1,0 +1,16 @@
+uvicorn[standard]
+fastapi
+beautifulsoup4
+requests
+pandas
+speechrecognition
+pillow
+librosa
+soundfile
+markdown
+httpx
+numpy
+python-dateutil
+loguru
+pillow
+faker
